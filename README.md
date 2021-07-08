@@ -1,5 +1,5 @@
 # TV-Shows-Application
-A Simple Android application following the MVVM Architecture. 
+A Simple Android MVVM application. 
 
 The application was coded along using this playlist https://www.youtube.com/playlist?list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK and some additional functionality has been added.
 
@@ -13,4 +13,4 @@ The application makes use of:
 7. Scalable size units
 8. ROOM Database
 
-This project can be used as a reference for developing an Android application using MVVM and best practises using JAVA.
+This project can be used as a reference for developing an Android application in Java using MVVM Architecture.
