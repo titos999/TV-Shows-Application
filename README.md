@@ -1,12 +1,7 @@
 # TV-Shows-Application
-A Simple Android MVVM application. 
-
-You can watch the application development series here : https://www.youtube.com/playlist?list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK
-
-Some additional functionality has been added.
+A Simple Android MVVM application. You can watch the application development series here : https://www.youtube.com/playlist?list=PLam6bY5NszYOUDKwe-6tVhb3zVevwbHiK. Some additional functionality has been added.
 
 # Features
-The application makes use of: 
 1. Databinding
 2. Material Design
 3. Retrofit & GSON
